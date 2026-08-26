@@ -17,9 +17,10 @@ Aplicativo de estudos feito em aulas do SENAI no curso Técnico em Desenvolvimen
 ## Screenshot
 |Tema claro|Tema escuro|
 |-|-|
-|![Tela com tema claro](./assets/screenshots/tela01.png)|![Tela com tema escuro](./assets/screenshots/tela01esc.png)|
-|![Tela com tema claro](./assets/screenshots/tela02.png)|![Tela com tema escuro](./assets/screenshots/tela02esc.png)|
-|![Tela com tema claro](./assets/screenshots/tela03.png)|![Tela com tema escuro](./assets/screenshots/tela03esc.png)|
+|![Tela com tema claro](./assets/screenshots/splash.png)|![Tela com tema escuro](./assets/screenshots/splash(2).png)|
+|![Tela com tema claro](./assets/screenshots/home.png)|![Tela com tema escuro](./assets/screenshots/home(2).png)|
+|![Tela com tema claro](./assets/screenshots/cadastro.png)|![Tela com tema escuro](./assets/screenshots/cadastro(2).png)|
+
 
 ## [Link do APK para instalar no celular](./assets/app-release.apk)
 Não me responsabilizo por qualquer dano que possa ocorrer ao instalar o aplicativo em seu dispositivo. Use por sua conta e risco.
